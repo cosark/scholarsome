@@ -61,6 +61,10 @@ You can read more about our design philosophy <a href="https://github.com/hwgilb
 
 Scholarsome  can be hosted yourself on any system. For those wishing to self-host Scholarsome, documentation for installation can be found <a href="https://github.com/hwgilbert16/scholarsome/blob/develop/apps/docs/docs/installation/installing.md">here.</a>
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Scholarsome/)
+
 ## Development
 
 For development purposes, Scholarsome is required to be installed outside the standard container-based system that is used for production installs. Documentation for development can be found <a href="https://github.com/hwgilbert16/scholarsome/blob/develop/apps/docs/docs/development/development-guide.md">here.</a>
